@@ -1,0 +1,12 @@
+.App {
+      text-align: center;
+  }
+  .body1
+  {
+    height: 40px;
+    width:400px;
+    margin-left: 30%;
+    background-color: grey;
+    text-align: center;
+    margin-top: 20%;
+  }
